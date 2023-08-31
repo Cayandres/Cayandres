@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andres Cayambe</h1>
-<h3 align="center">A Jr. Full Stack Web Developer from Firenze, Italy</h3>
+<h3 align="center">A Jr. Full Stack Web Developer from Florence, Italy</h3>
 
 - 🌱 I’m currently learning **Python**
 
