@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andres Cayambe</h1>
 <h3 align="center">A Jr. Full Stack Web Developer from Florence, Italy</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **c**
 
 - 👨‍💻 All of my projects are available [here](https://andrescayambe.netlify.app/)
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Languages and Tools:</h3> 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,sass,mysql,php,laravel,nodejs,vscode,github,netlify,ps,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,sass,mysql,php,laravel,nodejs,vscode,github,netlify,ps,pr,c)](https://skillicons.dev)
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/andrescayambe/" target="_blank">
